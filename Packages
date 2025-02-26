@@ -1,0 +1,15 @@
+Package: xyz.juanvel400.ipodwallpaper
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: juanvel400
+Depends: mobilesubstrate
+Filename: debs/xyz.juanvel400.ipodwallpaper-1.0-1.deb
+Size: 3588
+MD5sum: 2be2f9d2a8858d20c272be2d2ff9060c
+SHA1: 874264a5d1066ab4403ce9d328f7684c59c3524b
+SHA256: 6bddaf66fd4c4274cc43e92434961e80a26b3e92e1826e2727258e9cf9238683
+Section: Tweaks
+Description: Enables home screen wallpapers on iPod Touch 2G
+Author: juanvel400
+Name: iPod Touch Wallpaper Enabler
+
